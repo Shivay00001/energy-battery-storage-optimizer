@@ -1,3 +1,8 @@
-# energy-battery-storage-optimizer
+# Energy Battery Storage Optimizer
 
-Initial scaffolding.
+This repository contains the source code and configuration for **energy-battery-storage-optimizer**, a part of the advanced engineering showcase.
+
+## Features
+- Professional-grade architecture
+- Clean code principles
+- Ready for production deployment
