@@ -1,5 +1,9 @@
-FROM golang:1.20-alpine
+FROM python:3.11-slim
+
 WORKDIR /app
+
+RUN pip install --no-cache-dir pulp padding pandas
+
 COPY . .
-RUN go build -o app
-CMD ["./app"]
+
+ENTRYPOINT ["python", "src/main.py"]
