@@ -1,6 +1,6 @@
 import argparse
-from src.optimizer import BatteryOptimizer
-from src.market_data import generate_price_curve
+from optimizer import BatteryOptimizer
+from market_data import generate_price_curve
 
 def main():
     parser = argparse.ArgumentParser(description="Battery Storage Optimizer")
