@@ -1,5 +1,7 @@
 # Energy Battery Storage Optimizer
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Hybrid Go/Python optimizer for energy battery storage markets
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
